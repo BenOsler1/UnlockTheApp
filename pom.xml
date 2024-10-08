@@ -23,6 +23,15 @@
             <artifactId>javafx-fxml</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+            <dependency>
+
+        <groupId>org.tensorflow</groupId>
+
+        <artifactId>tensorflow</artifactId>
+
+        <version>1.15.0</version>
+
+    </dependency>
     </dependencies>
     <build>
         <resources>
